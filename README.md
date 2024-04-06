@@ -1,6 +1,7 @@
 # cintel-05-cintel
 Module 5 Project
 
+In this project, we will use a deque to practice continuous data analysis using a randomized temperature reading.
 
 ## Create and activate a local virtual environment in .venv.
     py -m venv .venv
